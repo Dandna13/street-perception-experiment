@@ -34,9 +34,4 @@ Experimental process for visual rhythm perception evaluation of continuous stree
 
 本仓库为论文实验流程补充。文献信息待发表后更新。
 
-## 许可
-
-MIT License
-
-
 ## 数据集：论文数据集为山西省运城市街景图像（百度api抓取），论文公开后上传数据集地址
